@@ -1,7 +1,7 @@
 # Hello and welcome 👋
 Hello and welcome to my Github account. <br>
 My name is Marius. A french <strong>Software & Robotics Engineer </strong> alumni of [EFREI Paris](https://www.efrei.fr/) and tech enthusiast.<br>
-Currently working as a FullStack Software Engineer at [Formlabs Budapest](https://formlabs.com/), I build 3D visuals and interactive experiments mostly with code for fun and talk about it sometimes on [YouTube](https://www.youtube.com/@marius.ballot).
+Currently working as a Graphics and AI Software Engineer at [Dentsply Sriona Zurich](https://www.dentsplysirona.com/en-us/discover/discover-by-brand/primescan2.html), I build 3D visuals and interactive experiments mostly with code for fun and talk about it sometimes on [YouTube](https://www.youtube.com/@marius.ballot).
 
 ## Socials and references
 * [Portfolio](https://mariusballot.com/)
