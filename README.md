@@ -4,7 +4,6 @@ My name is Marius. A french <strong>Software & Robotics Engineer </strong> alumn
 Currently working as a Graphics and AI Software Engineer at [Dentsply Sriona Zurich](https://www.dentsplysirona.com/en-us/discover/discover-by-brand/primescan2.html), I build 3D visuals and interactive experiments mostly with code for fun and talk about it sometimes on [YouTube](https://www.youtube.com/@marius.ballot).
 
 ## Socials and references
-* [Portfolio](https://mariusballot.com/)
 * [Show Reel](https://vimeo.com/399810528)
 * [Instagram](https://www.instagram.com/marius.exp/)
 * [Twitter](https://twitter.com/MariusBallot)
