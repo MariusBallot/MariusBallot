@@ -1,7 +1,9 @@
 # Hello and welcome 👋
 Hello and welcome to my Github account. <br>
-My name is Marius. A french <strong>Software & Robotics Engineer </strong> alumni of [EFREI Paris](https://www.efrei.fr/) and tech enthusiast.<br>
-Currently working as a Graphics and AI Software Engineer at [Dentsply Sriona Zurich](https://www.dentsplysirona.com/en-us/discover/discover-by-brand/primescan2.html), I build 3D visuals and interactive experiments mostly with code for fun and talk about it sometimes on [YouTube](https://www.youtube.com/@marius.ballot).
+My name is Marius. A french <strong>Software Engineer </strong> alumni of [EFREI Paris](https://www.efrei.fr/) and tech enthusiast.<br>
+Currently working as an AI Software Engineer at [MistralAI](https://mistral.ai/).
+
+I build 3D visuals and interactive experiments mostly with code for fun and talk about it sometimes on [YouTube](https://www.youtube.com/@marius.ballot).
 
 ## Socials and references
 * [Show Reel](https://vimeo.com/399810528)
